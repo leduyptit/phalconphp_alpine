@@ -1,6 +1,6 @@
 FROM php:7.3-alpine
 
-LABEL maintainer="DuyLK <leduyptit@gmail.com>, phamshantuyet <github.com/leduyptit>"
+LABEL maintainer="DuyLK <leduyptit@gmail.com>, leduyptit <github.com/leduyptit>"
 
 ARG PHALCON_VERSION=3.4.2
 ARG PHALCON_EXT_PATH=php7/64bits
